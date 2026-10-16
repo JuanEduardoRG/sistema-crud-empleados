@@ -3,7 +3,8 @@
 Aplicación web CRUD desarrollada con **Python, Flask y Microsoft SQL Server** para administrar la información de empleados desde una interfaz web.
 
 Este proyecto permite practicar el desarrollo backend, la conexión a bases de datos relacionales y la creación de aplicaciones web con operaciones CRUD.
-
+## Vista previa del sistema
+![Sistema de gestion de empleados](capturas/Sistema-empleados.png)
 ## Funcionalidades
 
 - **Registrar:** agregar nuevos empleados.
